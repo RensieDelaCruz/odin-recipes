@@ -1,2 +1,2 @@
 # odin-recipes
-This is my intro to HTML project in TOP(The Odin Project)
+This is my intro to HTML project in TOP(The Odin Project). The project is about making a basic recipe website. In this project, I will showcase all the skills that I learned from the intro to HTML lesson. Skills like proper use of different HTML elements, coding using the standard way of coding and use of github workflow.
